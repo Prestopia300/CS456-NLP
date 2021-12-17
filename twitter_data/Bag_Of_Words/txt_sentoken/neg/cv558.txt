@@ -1,0 +1,1 @@
+develops again part your mothers tsinelas implemented fully functional armour equipping system. monsters are able to walk and pathfind. player stats now taken into consideration when monster taking damage and vice versa. your mothers tsinelas. 

@@ -1,0 +1,1 @@
+after taking walk thought of an improvement. instead of returning boolean the helper function should return if is palindrome and an index value if not. essentially if is not palindrome then si sslength. 
